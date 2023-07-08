@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lavina69
+- 👀 I’m interested in Game
+- 🌱 I’m currently learning C+
